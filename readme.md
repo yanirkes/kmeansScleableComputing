@@ -2,7 +2,7 @@
 
 ## Description
 
-The program as 3 different mains - serial, multiprocessing and threading, all apply Kmeans
+The program has 3 different mains - serial, multiprocessing and threading, all apply Kmeans
 
 ## Runnig
 To all of the programs there are 2 data - cimputers and computers_test. The second 1 is larger (100 times).
