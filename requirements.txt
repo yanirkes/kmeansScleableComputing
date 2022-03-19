@@ -1,0 +1,6 @@
+pandas
+multiprocessing
+seaborn
+kneed
+matplotlib
+threading
